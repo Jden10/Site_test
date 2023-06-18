@@ -1,0 +1,20 @@
+.text{
+  position: absolute;
+  margin-top: 0;
+  left: 8%;
+  color: white;
+  font-family: "Roboto", "Arial";
+  line-height: 1.5;
+  z-index: -1;
+  width: 80vw;
+}
+.text h1{
+  font-size: 7vw;
+  text-align: center;
+}
+.text p{
+ font-size: 3.8vw;
+ text-align: justify;
+ text-indent: 10%;
+}
+

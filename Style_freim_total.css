@@ -1,0 +1,26 @@
+body{
+    padding: 20px 0 20px 40px;
+}
+ul.custom li.first{
+    font-family: "Roboto", "Arial";
+    font-size: 36px;
+    color:white;
+    margin-left: 0;
+    list-style: none;
+    background: url("premium.png") no-repeat 0px -4px;
+    padding-left: 64px;
+}
+ul.second li{
+     font-size: 28px;
+     font-weight: 200;
+     list-style: upper-roman;
+     list-style-position: inside;
+    padding: 10px 0 10px 0px;
+}
+ul.third li{
+    list-style: square;
+    list-style-position: inside;
+    font-size: 22px;
+    font-weight: 100;
+    padding: 8px 0 8px 40px;
+}
